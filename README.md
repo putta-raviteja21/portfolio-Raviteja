@@ -69,7 +69,7 @@ This portfolio is static and works well on Netlify or Vercel.
    ```bash
    dist
    ```
-
+https://6accd25d5f34fb2a4c1971a2--ravitejaputta-portfolio.netlify.app/
 ## Notes
 
 - Update the GitHub link in `src/App.jsx` if needed.
